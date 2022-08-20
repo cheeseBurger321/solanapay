@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "Duck1",
+      "price": "1",
+      "description": "ngl this is a pretty shit deal",
+      "image_url": "duck1.jpg",
+      "filename": "duck1.jpg",
+      "hash": "QmexFQYYWYnFFjrWh7GgXcnYbxeMH5uPyE9Nortd4MwhXJ"
+    }
+  ]
